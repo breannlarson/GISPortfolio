@@ -19,13 +19,13 @@
   - [Spatio-Temporal Analysis of Lake Pontchartrain](https://github.com/breannlarson/Spatio-Temporal-Analysis-of-Lake-Pontchartrain/blob/main/NCUR%20LPPoster.pdf) 
   - [Thermal Remote Sensing of Colorado Pikeminnows Habitat](https://github.com/breannlarson/Thermal-Remote-Sensing-of-the-Colorado-Pikeminnows-Habitat/blob/main/Thermal%20Remote%20Sensing%20Colorado%20Pikeminnows%20Critical%20Habitats.pdf)
     
-- <b>Spatial Analsis</b>
-  - [Relationp between NRI & Census Data]()
-  - [District boundry assessment based on legal inclusions]()
+- <b>Spatial Analysis</b>
+  - [Relationship between NRI & Census Data](https://github.com/breannlarson/Relationship-between-NRI-Census-Data/blob/main/Larson_Breann_RelationshipBetweentheNationalRiskIndexand2021CensusData.pdf)
+  - [District boundary assessment based on legal inclusions](https://github.com/breannlarson/District-Boundary-Inclusion-Analysis-/blob/main/Inclusion%20Project.pdf)
   
 - <b>GIS & Python</b>
-  - [Automated workflow for checking for contiguous lines]()
-  - [Embedded Locator Map]()
-  - [Expression for Assigning IDs]()
+  - [Automated workflow for checking for contiguous lines](https://github.com/breannlarson/Contiguous-Line-Check/blob/main/After%20Action%20Report_Hackathon%2004.10.25.pdf)
+  - [Embedded Locator Map](https://github.com/breannlarson/Embedded-Locator-Map/blob/main/After%20Action%20Report_Hackathon%2003.13.25.pdf)
+  - [Expression for Assigning IDs](https://github.com/breannlarson/Assigning-IDs/blob/main/AAR%20Assigning%20IDS.docx)
 
 
