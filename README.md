@@ -3,7 +3,7 @@
 <h2>Portofolio:</h2>
 
 - <b>Environmental Policy Assessments </b>
-  - [Management of Colorado River Basin](https://storymaps.arcgis.com/stories/1fbb6d83254e4f24b4ab1a52bec12263)
+  - [Management of Colorado River Basin](Week 4_ Management of the Colorado River.pdf)
   - [Analysis of Species Protection Policy](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [Analysis of Chinas Groundwater Crisis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
   - [Sustainability Decision Memo](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
