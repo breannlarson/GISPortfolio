@@ -5,25 +5,26 @@
 - <b>Environmental Policy Assessments </b>
   - [Management of Colorado River Basin](https://github.com/breannlarson/Management-of-Colorado-River-Basin/blob/main/Week%204_%20Management%20of%20the%20Colorado%20River.pdf)
   - [Analysis of Species Protection Policy](https://github.com/breannlarson/Analysis-of-Species-Protection-/blob/main/Analysis%20of%20Complex%20Environmental%20Challege.pdf)
-  - [Analysis of Chinas Groundwater Crisis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
-  - [Sustainability Decision Memo](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Analysis of Chinas Groundwater Crisis](https://github.com/breannlarson/Analysis-of-Chinas-Groundwater-Crisis/blob/main/China's%20Groundwater%20Crisis.docx)
+  - [Policy Brief: HABs]()
+  - [Sustainability Decision Memo]() 
   
 - <b>Environmental Analysis </b>
   - [GAP Analysis of Giant Kanagroo Rat](https://storymaps.arcgis.com/stories/1fbb6d83254e4f24b4ab1a52bec12263)
-  - [Landslide Hazard Assessment](https://storymaps.arcgis.com/stories/1fbb6d83254e4f24b4ab1a52bec12263)
-  - [North Cascades Grizzly Bear Assessment](https://storymaps.arcgis.com/stories/1fbb6d83254e4f24b4ab1a52bec12263)
+  - [Landslide Hazard Assessment]()
+  - [North Cascades Grizzly Bear Assessment]()
     
 - <b>Imagery Analysis (Remote Sensing)</b>
-  - [Spatio-Temporal Analysis of Lake Pontchartrain](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
-  - [Thermal Remote Sensing of Colorado Pikeminnows Habitat](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Spatio-Temporal Analysis of Lake Pontchartrain]() 
+  - [Thermal Remote Sensing of Colorado Pikeminnows Habitat]()
     
 - <b>Spatial Analsis</b>
-  - [Relationp between NRI & Census Data](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [District boundry assessment based on legal inclusions](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Relationp between NRI & Census Data]()
+  - [District boundry assessment based on legal inclusions]()
   
 - <b>GIS & Python</b>
-  - [Automated workflow for checking for contiguous lines](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Embedded Locator Map](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Expression for Assigning IDs](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Automated workflow for checking for contiguous lines]()
+  - [Embedded Locator Map]()
+  - [Expression for Assigning IDs]()
 
 
