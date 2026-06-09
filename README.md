@@ -1,4 +1,4 @@
-<h1>Hi, I'm Breann! <b> GIS Technican, MS Environmental Policay & Management Graduate Student, Outdoor Enthusiast  <b>
+<h1>Hi, I'm Breann! <b> GIS Technican, MS Environmental Policy & Management Graduate Student, Outdoor Enthusiast  <b>
 
 <h2>Portofolio:</h2>
 
